@@ -33,7 +33,8 @@ git commit -m 'tips'
 git push
 ```
 > 避坑：要在liubo0056.github.io内部再右键git bash here.
-> 代码上传后还要设置页面目录
+
+6.代码上传后还要设置页面目录才能打开网页liubo0056.github.io
 ![image](images/cf819e74-2a4a-4d02-84ad-cb94726d6f57.png)
 
 
