@@ -73,7 +73,7 @@ docs/zh-cn/guide.md   => http://domain.com/#/zh-cn/guide
 ### 显示目录
 
 自定义侧边栏同时也可以开启目录功能。设置 subMaxLevel 配置项
-=======
+
 > 避坑：要在liubo0056.github.io内部再右键git bash here.
 
 6.代码上传后还要设置页面目录才能打开网页liubo0056.github.io
