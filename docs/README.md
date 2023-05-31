@@ -34,7 +34,7 @@ git commit -m 'tips'
 git push
 ```
 代码上传后还要设置页面目录
-![image](https://github.com/liubo0056/liubo0056.github.io/assets/67025638/cf819e74-2a4a-4d02-84ad-cb94726d6f57)
+![image](images/cf819e74-2a4a-4d02-84ad-cb94726d6f57.png)
 
 
 
