@@ -32,12 +32,12 @@ docsify serve docs
 在github上创建一个以账户名开头的仓库（liubo0056.github.io）
 git clone 克隆仓库的本地
 把前面创建的项目放到本地仓库中
-避坑：要在liubo0056.github.io内部再右键git bash here.
 git status
 git add .
 git commit -m 'tips'
 git push
 ```
+<<<<<<< HEAD
 :heart: 代码上传后还要设置页面目录
 ![image](_images/cf819e74-2a4a-4d02-84ad-cb94726d6f57.png)
 
@@ -73,6 +73,13 @@ docs/zh-cn/guide.md   => http://domain.com/#/zh-cn/guide
 ### 显示目录
 
 自定义侧边栏同时也可以开启目录功能。设置 subMaxLevel 配置项
+=======
+> 避坑：要在liubo0056.github.io内部再右键git bash here.
+
+6.代码上传后还要设置页面目录才能打开网页liubo0056.github.io
+![image](images/cf819e74-2a4a-4d02-84ad-cb94726d6f57.png)
+
+>>>>>>> 07d2a55b1273d269198b23421046f245f4038672
 
 ```html
 <!-- index.html -->
