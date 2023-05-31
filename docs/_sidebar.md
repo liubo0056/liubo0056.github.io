@@ -1,2 +1,2 @@
 * [首页](README.md)
-* [导航](/guide)
+* [docsify基本使用](/docsify)
