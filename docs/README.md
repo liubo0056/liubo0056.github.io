@@ -37,9 +37,6 @@ git push
 ![image](images/cf819e74-2a4a-4d02-84ad-cb94726d6f57.png)
 
 
-
-See the [Quick start](quickstart.md) guide for more details.
-
 ## Features
 
 - No statically built html files
