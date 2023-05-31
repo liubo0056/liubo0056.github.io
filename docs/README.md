@@ -27,6 +27,7 @@ docsify serve docs
 在github上创建一个以账户名开头的仓库（liubo0056.github.io）
 git clone 克隆仓库的本地
 把前面创建的项目放到本地仓库中
+避坑：要在liubo0056.github.io内部再右键git bash here.
 git status
 git add .
 git commit -m 'tips'
