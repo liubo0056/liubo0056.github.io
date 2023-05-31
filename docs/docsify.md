@@ -77,13 +77,9 @@ docs/zh-cn/guide.md   => http://domain.com/#/zh-cn/guide
 > 避坑：要在liubo0056.github.io内部再右键git bash here.
 
 6.代码上传后还要设置页面目录才能打开网页liubo0056.github.io
-![image](images/cf819e74-2a4a-4d02-84ad-cb94726d6f57.png)
-
->>>>>>> 07d2a55b1273d269198b23421046f245f4038672
+![image](_images/cf819e74-2a4a-4d02-84ad-cb94726d6f57.png)
 
 ```html
-<!-- index.html -->
-
 <script>
   window.$docsify = {
     loadSidebar: true,
