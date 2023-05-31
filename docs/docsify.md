@@ -37,7 +37,6 @@ git add .
 git commit -m 'tips'
 git push
 ```
-<<<<<<< HEAD
 :heart: 代码上传后还要设置页面目录
 ![image](_images/cf819e74-2a4a-4d02-84ad-cb94726d6f57.png)
 
